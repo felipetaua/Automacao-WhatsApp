@@ -14,4 +14,4 @@ Antes de usar o projeto, verifique se você possui:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/felipetaua/Automacao-WhatsApp.git
